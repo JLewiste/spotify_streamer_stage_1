@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/johanneslewiste/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-809105b8e8d825b8694e13a62f8abfe9d9384f0f.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-76bfb11f5fbcb154f3b41b4bf8ac02708cae7370.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/classes-ae2e9106d8aa5193db90153f37fded4291a3c9f5.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-cbb41c02a2096200ec6a1790fcfe1e678ad9d3b4.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/classes-3e584e6d0cdc7c709ebee8710d42f6202daab950.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/gson-2.3.1-d788a964bf97d32027bd1f3772921d6ce827aa35.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-bf178d3d066fc512e248466fb4a2857e03a57870.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/okio-1.2.0-d442909f7f67c901ec9ba1263a70757312e8a457.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7bb7924eeac39713cb3b528c01b55ff8ce5afc4b">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/classes-0eb17be2a2832908cd5fa563633edfdde6d29be6.jar" />
+    </item>
+    <item
+        jar="/Users/johanneslewiste/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/johanneslewiste/AndroidStudioProjects/SpotifyStreamer/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-f3d28c9001700f00407c3da56355d818b8422e64.jar" />
+    </item>
+
+</items>
